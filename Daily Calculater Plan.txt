@@ -1,0 +1,25 @@
+1. Array for resources (Gold, wood, food, Iron, Stone, Mithril, Wine, Pipeweed).
+2. Array for faction details (Faction Name, Faction Race, Faction Special Resource Building).
+3. Array for buildings(Farms, Mines, Lumber Camps, Markets).
+4. Superior daily function:
+a) takes in Inputs so arrays can be named.  
+b) check for race.
+c) check for race special building present or not.
+d) check for faction heir present or not.
+e) check for first how many types of units.
+f) cost and quantity of each type of unit. 
+
+5. Printing format:
+
+Faction Name:
+Faction Race:
+Gold:
+Wood:
+Food:
+Iron:
+Stone:
+Mithril:
+Wine:
+Pipeweed:
+
+6. Don't forget system("Pause")
